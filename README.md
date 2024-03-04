@@ -8,11 +8,11 @@ This repository serves as a way to share my learning journey and programming-rel
 
 ## Technologies
 
-- HTML ![HTML](https://img.icons8.com/color/48/000000/html-5.png)
-- CSS ![CSS](https://img.icons8.com/color/48/000000/css3.png)
-- JavaScript ![JavaScript](https://img.icons8.com/color/48/000000/javascript.png)
-- PHP ![PHP](https://img.icons8.com/officel/48/000000/php-logo.png)
-- C# ![C#](https://img.icons8.com/color/48/000000/c-sharp-logo.png)
+- ![HTML](https://img.icons8.com/color/48/000000/html-5.png)
+- ![CSS](https://img.icons8.com/color/48/000000/css3.png)
+- ![JavaScript](https://img.icons8.com/color/48/000000/javascript.png)
+- ![PHP](https://img.icons8.com/officel/48/000000/php-logo.png)
+- ![C#](https://img.icons8.com/color/48/000000/c-sharp-logo.png)
 
 ## How to Contribute
 
